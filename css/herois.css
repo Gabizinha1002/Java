@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: darkred;
+}
+header{
+    background-color: darkred;
+    color: white;
+    padding: 30px;
+}
+
+header h1{
+    text-align: center;
+    font-family: 'Lora';
+    font-size: 45px;
+}
+
+main{
+    margin: 20px 80px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    background-color: #ffffff;
+    padding: 20px;
+}
+main h2{
+    text-align: center;
+    font-family: 'Lora';
+    font-size: 30px;
+}
+.curiosidades li{
+    font-size: 20px;
+    font-family: 'Lora';
+}
+.curiosidades{
+    padding-bottom: 20px;
+}
+.container h2{
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
